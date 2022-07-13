@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Yigit.<br>Currently learning about Computer Vision
+Hello, I'm Yigit.<br>I'm currently learning about Computer Vision
 
 
 ## 🌐 Socials:
